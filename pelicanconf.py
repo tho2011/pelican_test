@@ -8,6 +8,9 @@ TIMEZONE = 'Europe/Rome'
 
 DEFAULT_LANG = 'en'
 
+SITEURL = 'https://tho2011.github.io/pelican_test/'
+ABSOLUTE_URL = SITEURL
+
 RELATIVE_URLS = True
 
 
