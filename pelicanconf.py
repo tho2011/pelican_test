@@ -1,15 +1,12 @@
 AUTHOR = 'Sam'
 SITENAME = 'Test'
-SITEURL = ""
+SITEURL = "."
 
 PATH = "content"
 
-TIMEZONE = 'Europe/Rome'
+TIMEZONE = 'America/New_York'
 
 DEFAULT_LANG = 'en'
-
-SITEURL = 'https://tho2011.github.io/pelican_test/'
-ABSOLUTE_URL = SITEURL
 
 RELATIVE_URLS = True
 
